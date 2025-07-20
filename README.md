@@ -59,8 +59,6 @@ This dataset is a classic benchmark for regression models in the automotive doma
 - Residual plots revealed areas for improvement, such as variance at higher MPG values.
 - R² score provided a transparent view of how well the model captured variance in the data.
 
-_👉 Final model performance metrics and visualizations will be included below once screenshots are added._
-
 ---
 
 ## 💡 Learning Outcomes
@@ -77,17 +75,4 @@ _👉 Final model performance metrics and visualizations will be included below 
 - Apply **feature scaling** and polynomial regression
 - Experiment with **regularization techniques** (Ridge, Lasso)
 
----
 
-## 📸 Visual Gallery (Coming Soon)
-
-_Sample EDA plots, regression lines, residuals, and prediction visuals will be added here._
-
----
-
-## 📬 Connect with Me
-
-I'm always open to feedback or collaboration on real-world ML problems.
-
-📧 **Agilan Sivakumaran**  
-🌐 [GitHub](https://github.com/agilancan) | [LinkedIn](https://www.linkedin.com/in/agilancan/)
